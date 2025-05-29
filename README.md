@@ -32,8 +32,6 @@ The main goal of this project is to provide a minimal, beginner-friendly example
 ### 🔧 Steps to Deploy
 
 #### 1. SSH into your EC2 instance
-
-```bash
 ssh -i your-key.pem ubuntu@your-ec2-public-ip
 
 #### 2. Install required packages
