@@ -19,22 +19,6 @@ The main goal of this project is to provide a minimal, beginner-friendly example
 
 ---
 
-## 📁 Folder Structure
-
-simple-ssr-node-app/
-│
-├── views/ # EJS templates (SSR views)
-│ └── index.ejs
-│
-├── public/ # Static assets (CSS, JS, images)
-│ └── style.css
-│
-├── app.js # Main Express server
-├── package.json # Dependencies and scripts
-└── README.md
-
----
-
 ## 🛠️ Setup Instructions
 
 ### ✅ Prerequisites
