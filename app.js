@@ -12,7 +12,7 @@ app.use(express.static("public"));
 app.get("/", (req, res) => {
   res.render("index", {
     title: "Home Page",
-    message: "Welcome to SSR Node.js App!",
+    message: "Welcome to Node Js Application on AWS EC2",
   });
 });
 
